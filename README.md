@@ -2,6 +2,9 @@
 
 A modern, responsive **Lead Management Dashboard** built with **React 19**, **Vite**, and **Tailwind CSS**. Designed for performance, scalability, and developer productivity — featuring rich UI components, data visualization tools, and form handling libraries.
 
+-I have made this website as part of my internship at [Talentrise Technokrate Pvt Ltd](https://www.technokrate.com/).
+
+-I worked as a React Js intern at [Talentrise Technokrate Pvt Ltd](https://www.technokrate.com/)
 ---
 
 ## 🧩 Tech Stack
